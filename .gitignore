@@ -1,0 +1,7 @@
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+/.vs/Turnit.GenericStore/FileContentIndex/read.lock
+/.vs/Turnit.GenericStore/FileContentIndex/38e46ab9-1d48-481e-95f2-213337dc4f65.vsidx
